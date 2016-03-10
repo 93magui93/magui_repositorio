@@ -1,0 +1,58 @@
+body{
+  background-color:rgb(134, 215, 180);
+  font-size:16px;
+
+}
+.estiloMenu {
+background-color: rgb(231, 176, 42);
+  color: rgb(102, 40, 128);
+  font-size: 1.5em;
+    display: inline-block;
+}
+
+#listaPrincipal {
+
+  list-style:none;
+  margin: 0;
+  padding: 0;
+
+}
+#logo{
+
+  display: inline-block;
+  margin: 0;
+}
+.temaprincipal
+{
+color:green;
+  display: inline-block;
+
+}
+#listaPrincipal{
+  background-color: rgb(231, 176, 42);
+
+  margin: 0;
+  padding: 0;
+}
+.imagenarticulo, .articulos{
+
+  display: inline-block;
+width: 49%;
+}
+
+.articulos:hover{
+  margin: 0;
+    font-size: 1.2em;
+  color: rgb(159, 200, 57);
+  font-style: oblique;
+  width: 49%;
+}
+
+}
+#pieLeyenda{
+  background-color: rgb(132, 29, 249);
+}
+
+.secciondeinformacion{
+  background-color:rgb(159, 200, 57);
+}
